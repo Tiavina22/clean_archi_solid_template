@@ -1,3 +1,4 @@
+// Models pour notre note
 class Note {
   final int? id;
   final String title;
